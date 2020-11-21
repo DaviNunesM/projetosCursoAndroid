@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Adicionar"
+        android:id="@+id/adicionarButton"/>
+    <item
+        android:title="Excluir"
+        android:id="@+id/excluirButton"/>
+    <item
+        android:title="Editar"
+        android:id="@+id/editarButton"/>
+    <item
+        android:title="Buscar"
+        android:id="@+id/buscarButton"/>
+
+
+</menu>
